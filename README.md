@@ -4,6 +4,6 @@ theme: minima
 # ![Developer](img/logo.png)
 **Name:** Serj\
 **e-mail:** serjzlo2003@gmail.com\
-**Age:** 6\
+**Age:** 36\
 **Specs:** _JD, PHP, SQL, JS, CSS, HTML_
  
